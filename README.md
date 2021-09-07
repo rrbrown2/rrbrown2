@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @rrbrown2
 - 👀 I’m interested in ... Learning cool shit  
 - 🌱 I’m currently learning ... Ansible, Kibana, and Jenkins 
 - 📫 How to reach me ... rrbrown17@gmail.com 
